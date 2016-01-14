@@ -1,0 +1,16 @@
+{
+    "name": "boofw/weixin-emoji-php",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Boofw\\Weixin\\Emoji\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Boof Wang",
+            "homepage": "http://boof.wang",
+            "email": "i@boof.wang"
+        }
+    ]
+}
